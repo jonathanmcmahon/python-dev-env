@@ -1,0 +1,10 @@
+black
+click
+coverage
+falcon
+gunicorn
+hug
+pep257
+pylint
+pytest
+requests
