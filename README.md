@@ -11,7 +11,7 @@ This repository is to assist a new Python developer in getting set up and pointe
 
 This document is written in [markdown](https://www.markdownguide.org/). It is a lightweight text markup language that many people find ideally suited for documenting lots of things--especially software projects.
 
-To see how this document looks in markdown (before it is rendered by github), [click here](https://github.com/evu/python-dev-env/raw/unlinted/README.md).
+To see how this document looks in markdown (before it is rendered by github), [click here](https://github.com/jonathanmcmahon/python-dev-env/raw/unlinted/README.md).
 
 Documentation isn't a nice-to-have, and it should never be done as an afterthought. It is a good idea to try to write it as you go and then it isn't this major task that awaits you to tackle all at once. 
 
